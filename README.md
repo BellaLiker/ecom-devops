@@ -1,5 +1,1 @@
-# ecom-devops
-# dev-test
-# ecom-devops
-# ecom-devops
-# ecom-devops
+# UPDATE via CI/CD pipeline
